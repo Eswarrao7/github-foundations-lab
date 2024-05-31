@@ -1,3 +1,2 @@
 # github-foundations-lab
-This is a demo repo
-new
+This is a demo
